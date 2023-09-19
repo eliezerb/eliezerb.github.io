@@ -1,1 +1,0 @@
-$(".bibtex").click(function(){var a=$(this).attr("href");$(a).hasClass("hidden")?$(a).removeClass("hidden"):$(a).addClass("hidden")});
