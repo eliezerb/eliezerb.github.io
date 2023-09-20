@@ -1,0 +1,6 @@
+baseUrl = "https://eliezerb.github.io"
+languageCode = "en"
+enableRobotsTXT = "false"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

@@ -1,0 +1,14 @@
+title = "eliezerb | ebernart"
+languageName = "English"
+
+[author]
+  name = "Eliezer Bernart"
+  headline = "Software Engineer and PhD Student"
+  image = "profile.png"
+  links = [
+    { link = "https://scholar.google.com.br/citations?user=3bKPVd4AAAAJ" }, 
+    { linkedin = "https://www.linkedin.com/in/eliezerbernart/" },
+    { stack-overflow = "https://stackoverflow.com/users/1579030/eliezer-bernart"}, 
+    { github = "https://github.com/eliezerb" },
+    { link = "https://www.goodreads.com/user/show/60351074-eliezer" }
+  ]

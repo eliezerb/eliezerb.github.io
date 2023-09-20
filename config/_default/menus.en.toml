@@ -1,0 +1,5 @@
+# Temporary disabling menus
+[[main]]
+  name = ""
+  pageRef = ""
+  weight = 0

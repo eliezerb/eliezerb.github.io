@@ -1,0 +1,8 @@
+colorScheme = "fire"
+autoSwitchAppearance = "true"
+
+[homepage]
+  layout = "profile"
+
+[footer]
+  showAppearanceSwitcher = "true"
